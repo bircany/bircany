@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bircan</h1>
-<h3 align="center">A passionate self-learner backend developer & cybersecurity from Turkey</h3>
+<h3 align="center">A passionate self-learner backend developing & cybersecurity from Turkey</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bircany&label=Profile%20views&color=0e75b6&style=flat" alt="bircany" /> </p>
