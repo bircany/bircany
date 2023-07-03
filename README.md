@@ -9,14 +9,9 @@
 - 🔭 I’m currently working & learning on [EfficientHouse](https://github.com/erenuygur/EfficientHouseJava)
 
 - 🌱 I’m currently learning **Java**
-
-- 📝 I regularly write articles on [https://bircany.medium.com/](https://bircany.medium.com/)
-
+-  📝 I regularly write articles on  <a href="https://bircany.medium.com/">Medium</a>
 - 📫 How to reach me **bircanyilmaz622@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
