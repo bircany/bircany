@@ -1,5 +1,5 @@
 
-<img alt="Coder GIF" align="right" height=250 width=300 src="" />
+<img alt="Coder GIF" align="right" height=250 width=300 src="http://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <<h1 align="center">Hi 👋, I'm Bircan</h1>
 <h3 align="center">Candidate Java Backend Developer</h3>
