@@ -39,3 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bircany&" alt="bircany" /></p>
 
+![snake gif](https://github.com/bircany/bircany/blob/output/github-contribution-grid-snake.gif)
