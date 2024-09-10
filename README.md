@@ -4,8 +4,8 @@
 <h2 align="left"><strong>Backend & Mobile Developer</strong></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bircany&label=Profile%20views&color=0e75b6&style=flat" alt="bircany" /> </p>
----
-[![](https://visitcount.itsvg.in/api?id=bircany&icon=5&color=3)](https://visitcount.itsvg.in)
+
+
 
 
 
@@ -72,4 +72,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+[![](https://visitcount.itsvg.in/api?id=bircany&icon=5&color=3)](https://visitcount.itsvg.in)
