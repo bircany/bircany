@@ -1,8 +1,8 @@
 
 <img alt="Coder GIF" align="right" height=250 width=300 src="http://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-<<h1 align="center">Hi 👋, I'm Bircan</h1>
-<h3 align="center">Candidate  Backend & Mobile Developer </h3>
+<<h1 align="center"><strong>Hi 👋, I'm Bircan</strong></h1>
+<h2 align="left"><strong>Backend & Mobile Developer</strong></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bircany&label=Profile%20views&color=0e75b6&style=flat" alt="bircany" /> </p>
 
