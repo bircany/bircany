@@ -11,8 +11,6 @@
 
 # 💫 About Me:
 👯I'm looking to collabrate on Java & Spring Projects<br>🤝 I’m looking for help with Open-Source  and Startup Projects<br>🌱I'm currently learning Spring MVC<br>💬 Ask me about Android Development, Kotlin , Java and Spring.<br>⚡ Fun fact I prefer Dark Mode :)
-<br>
-[![](https://visitcount.itsvg.in/api?id=bircany&icon=5&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bircnnyilmz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/bircany) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bircany) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/bircany) 
 
