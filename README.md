@@ -18,7 +18,7 @@
 ## 
 | Technology       |
 |------------------|
-C# .NET/Entity Framework(ORM) / Minimal APIs .NET 9.0
+C# .NET/Entity Framework(ORM) / Minimal APIs .NET 9.0 / XUnit
 Kotlin - Flutter/Dart - Jetpack Compose
 Java - Spring Core/REST/MVC/Security(with JWT)/Thymeleaf/JPA/Hibernate/JDBC-MySQL
 Python - Numpy - Pandas - Matplotlib - TensorFlow - Keras
