@@ -19,13 +19,13 @@
 | Technology       |
 |------------------|
 C# .NET/Entity Framework(ORM) / Minimal APIs .NET 9.0 / XUnit
-Mobile --> Kotlin - Flutter/Dart - Jetpack Compose
+Mobile --> Kotlin / Jetpack Compose / Firebase
 Java - Spring Core/REST/MVC/Security/Thymeleaf/JPA/Hibernate/JDBC-MySQL
 Python - Numpy - Pandas - Matplotlib - TensorFlow - Keras
-MSSQL - MySQL - Oracle
+MSSQL - MySQL - PostgreSQL - MongoDB 
 Frontend -->  JavaScript-ReactJS-NodeJS-Bootstrap-TailwindCSS
 
-Big Data / Data Mining --> Tableu / MongoDB / Hadoop / Hive / ElasticSearch / Kafka / Spark
+Big Data / Data Mining --> Tableu 
 
 
 
