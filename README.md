@@ -20,12 +20,12 @@
 |------------------|
 C# .NET/Entity Framework(ORM) / Minimal APIs .NET 9.0 / XUnit
 Mobile --> Kotlin / Jetpack Compose / Firebase
-Java - Spring Core/REST/MVC/Security/Thymeleaf/JPA/Hibernate/JDBC-MySQL
-Python - Numpy - Pandas - Matplotlib - TensorFlow - Keras
-MSSQL - MySQL - PostgreSQL - MongoDB 
+Java - Spring Boot | Spring Microservice | Spring Cloud
+Python - TensorFlow - Scikİt-Learn - Keras
+SQL - MongoDB
 Frontend -->  JavaScript-ReactJS-NodeJS-Bootstrap-TailwindCSS
 
-Big Data / Data Mining --> Tableu 
+Big Data / Data Mining --> Tableu , Hadoop , Spark
 
 
 
