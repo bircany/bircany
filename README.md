@@ -28,6 +28,7 @@ TensorFlow - Keras - Scikit-Learn
 Hadoop - Spark
 React.js - Node.js
 MongoDb - Firebase - Redis
+Docker
 
 ## 
 | Interests       |
