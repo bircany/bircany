@@ -29,6 +29,10 @@ Hadoop - Spark
 React.js - Node.js
 MongoDb - Firebase - Redis
 
+## 
+| Interests       |
+|------------------|
+Machine Learning - Deep Learning - CNNs - NLP - LLMs - Generative AI - Backend Development - Mobile & Native Programing
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bircany&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
