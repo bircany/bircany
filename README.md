@@ -24,10 +24,9 @@
 Java - Spring Boot
 .NET 8 / .9
 Kotlin - Hilt
-TensorFlow - Keras - Scikit-Learn
-Hadoop - Spark
+TensorFlow 
 React.js - Node.js
-MongoDb - Firebase - Redis
+MongoDb - Firebase 
 Docker
 
 ## 
