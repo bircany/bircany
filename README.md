@@ -26,16 +26,8 @@ Machine Learning & Deep Learning
 Nature Language Processing ; Large Language Models & Generative AI & Speech-To-Text / Text-To-Speech Operations 
 Computer Vision ; Real Time Image / Video Processing and Classification with DL Models (Like CNN / GANs / Transfer Learning) & Object Detection / Face Recognition with YOLO 
 Python , PyTorch / TensorFlow
-
-Backend Development 
-Java - Spring Boot (Hibernate, Spring Security vs.)
-.NET Core / EF / LINQ
-MongoDB
-MSSQL
-Docker
-
-Mobile Deveopment
-Kotlin / Hilt / Firebase
+Backend Development ; Java - Spring Boot (Hibernate, Spring Security vs.)  .NET Core / EF / LINQ MongoDB MSSQL Docker
+Mobile Deveopment ; Kotlin / Hilt / Firebase
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bircany&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
