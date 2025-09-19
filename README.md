@@ -1,7 +1,7 @@
 <img alt="Coder GIF" align="right" height=250 width=300 src="http://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <<h1 align="center"><strong>Hi 👋, I'm Bircan</strong></h1>
-<h2 align="left"><strong>Backend Developer & AI Enthusiast </strong></h2>
+<h2 align="left"><strong>Backend Developer & AI Researcher </strong></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bircany&label=Profile%20views&color=0e75b6&style=flat" alt="bircany" /> </p>
 
@@ -18,21 +18,24 @@
 
 # 💻 Tech Stack
 
-## 
-| Technology       |
-|------------------|
-Java - Spring Boot
-.NET 8 / .9
-Kotlin - Hilt
-TensorFlow 
-React.js - Node.js
-MongoDb - Firebase 
-Docker
 
 ## 
 | Interests       |
 |------------------|
-Machine Learning - Deep Learning - CNNs - NLP - LLMs - Generative AI - Backend Development - Mobile & Native Programing & Cloud-Based-Systems & Cloud Security
+Machine Learning & Deep Learning 
+Nature Language Processing ; Large Language Models & Generative AI & Speech-To-Text / Text-To-Speech Operations 
+Computer Vision ; Real Time Image / Video Processing and Classification with DL Models (Like CNN / GANs / Transfer Learning) & Object Detection / Face Recognition with YOLO 
+Python , PyTorch / TensorFlow
+
+Backend Development 
+Java - Spring Boot (Hibernate, Spring Security vs.)
+.NET Core / EF / LINQ
+MongoDB
+MSSQL
+Docker
+
+Mobile Deveopment
+Kotlin / Hilt / Firebase
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bircany&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
