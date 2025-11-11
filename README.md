@@ -1,5 +1,3 @@
-<img alt="Coder GIF" align="right" height=250 width=300 src="http://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-
 <<h1 align="center"><strong>Hi 👋, I'm Bircan</strong></h1>
 <h2 align="left"><strong>Backend Developer & AI Researcher </strong></h2>
 
