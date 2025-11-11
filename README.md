@@ -18,15 +18,18 @@
 
 # 💻 Tech Stack
 
-.NET Core | EntityFramework | LINQ | FluentValidation , MediatR | ABP Framework | Blazor | MSSQL | PostgreSQL | MongoDB | Firebase & Supabase
-ElasticStack , Redis , RabbitMQ , Docker | Event-Driven Architecture | Clean Architecture , Vertical-Slice Architecture | Microservices 
-Java | Spring Boot | Hibernate | Spring Security , Spring Cloud , Spring AI 
+
 
 ## 
 | Interests       |
 |------------------|
 NLP & Computer Vision 
 Mobile Development with Kotlin/Flutter
+Java | Spring Boot | Hibernate | Spring Security , Spring Cloud , Spring AI 
+.NET Core | EntityFramework | LINQ | FluentValidation | MediatR | ABP Framework | Blazor | MSSQL | PostgreSQL | MongoDB | Firebase & Supabase | AWS S3
+ElasticStack , Redis , RabbitMQ , Docker | Event-Driven Architecture | Clean Architecture , Vertical-Slice Architecture | Microservices 
+LLM Integration with LangChain & RAG based Agents for Chatbots 
+Profession on n8n Automations for your Company at Digital Industries. 
 
 
 # 📊 GitHub Stats:
