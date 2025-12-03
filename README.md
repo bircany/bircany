@@ -16,7 +16,7 @@ Java , Spring Boot , Security , Cloud , AI , Hibernate (ORM)
 MSSQL , PostgreSQL , MongoDB , Firebase & Supabase , AWS S3
 ElasticStack , Redis , RabbitMQ , Docker
 Event-Driven Architecture , Clean Architecture , Vertical-Slice Architecture , Microservices 
-LLM Integration with LangChain & RAG based Agents for Chatbots 
+LangChain & RAG - ChatBot & ElevenLabs (TTS - STT)
 Profession on n8n Automations for your Company at Digital Industries. 
 
 
