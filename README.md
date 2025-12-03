@@ -9,7 +9,6 @@
 ## 
 |  💻 Tech Stack  |
 |------------------|
-
 Java , Spring Boot , Security , Cloud , AI , Hibernate (ORM) 
 .NET Core, EntityFramework ,LINQ , FluentValidation , MediatR , ABP Framework , Blazor 
 MSSQL , PostgreSQL , MongoDB , Firebase & Supabase , AWS S3
