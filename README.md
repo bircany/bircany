@@ -9,14 +9,15 @@
 ## 
 |  💻 Tech Stack  |
 |------------------|
-NLP & Computer Vision 
-Mobile Development with Kotlin/Flutter
+
 Java , Spring Boot , Security , Cloud , AI , Hibernate (ORM) 
 .NET Core, EntityFramework ,LINQ , FluentValidation , MediatR , ABP Framework , Blazor 
 MSSQL , PostgreSQL , MongoDB , Firebase & Supabase , AWS S3
-ElasticStack , Redis , RabbitMQ , Docker
-Event-Driven Architecture , Clean Architecture , Vertical-Slice Architecture , Microservices 
-LangChain & RAG - ChatBot & ElevenLabs (TTS - STT)
+Elastic , Redis , RabbitMQ , Docker
+Kotlin & Flutter
+NLP based Vector DB (Embeddings) & LangChain & RAG - ChatBot & ElevenLabs (Text-to-Speech / Speech-to-Text)
+Computer Vision 
+
 Profession on n8n Automations for your Company at Digital Industries. 
 
 
